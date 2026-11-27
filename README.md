@@ -15,7 +15,7 @@ Dans la **troisième partie** on effectuera des requêtes pour répondre aux dif
 
 ## 1. Installation 
 
-Téléchargez Neo4j Desktop (installable disponible [en cliquant ici](https://bul.univ-lyon2.fr/index.php/s/m6f1w1KQUdLv0wx)), suivez les instructions (au pire des cas, dérangez le prof avec une ou deux questions au maximum) et prenez en main Neo4j.
+Téléchargez Neo4j Desktop (installable disponible [en cliquant ici](https://bul.univ-lyon2.fr/index.php/s/m6f1w1KQUdLv0wx/download)), suivez les instructions (au pire des cas, dérangez le prof avec une ou deux questions au maximum) et prenez en main Neo4j.
 
 <!-- ⚠️ N'oubliez pas de copier la clé d'activation "*Neo4j Desktop Activation Key*", vous en aurez besoin pour la suite au moment de l'installation.-->
 
