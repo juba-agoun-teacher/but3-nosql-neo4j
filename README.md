@@ -48,7 +48,7 @@ Avant toute chose! Vous allez devoir vous ajouter au monde que vous venez de rej
 
 2.  Créez deux personnages et exprimez une relation qui les relie.
 
-> 🪙 Par exemple, un des combats les plus célèbres oppose Oberyn Martell, dit The Viper et Gregor Clegane, dir The Mountain. Gregor Clegane tue Oberyn Martell en duel.
+> 🪙 Par exemple, un des combats les plus célèbres oppose Oberyn Martell, dit The Viper et Gregor Clegane, dit The Mountain. Gregor Clegane tue Oberyn Martell en duel.
 
 <details>
 <summary>Idice 1</summary>
